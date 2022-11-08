@@ -5,5 +5,5 @@ Just copy the game folder and merge with the already existing one!
 The gift is there too so its easy to give her!
 Preview:
 
-(https://user-images.githubusercontent.com/114690910/200477552-a4279e8a-525e-48e1-9933-20a9a6c441bc.png)
 
+![acs-stitchpony_choker_skullcross](https://user-images.githubusercontent.com/114690910/200477793-ad393b39-9d8c-4682-a544-f7c6f9f05fb5.png)
