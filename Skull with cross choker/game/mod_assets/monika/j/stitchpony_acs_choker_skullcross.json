@@ -1,0 +1,27 @@
+{
+    "__author": "Stitchpony",
+    "version": 3,
+    "type": 0,
+    "name": "stitchpony_choker_skullcross",
+    "img_sit": "stitchpony_choker_skullcross",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "rec_layer": 8,
+    "acs_type": "choker",
+    "stay_on_start": true,
+    "priority": 8,
+    "dlg_desc": "choker",
+    "dlg_plural": false,
+    "select_info": {
+        "display_name": "Choker (Skull on Cross)",
+        "thumb": "stitchpony_choker_skullcross",
+        "group": "choker"
+    },
+    "giftname": "skullcrosschoker",
+    "arm_split": {
+        "default": "0",
+        "use_reg_for_l": true
+    }
+}
